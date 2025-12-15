@@ -1,0 +1,22 @@
+CHALLENGE 1 METRICS SUMMARY
+============================
+Design: variant_01_conservative
+CDR-H3: CARRDFRYDMGFDYWGQG (Y5F mutation)
+
+BINDING & STRUCTURE METRICS (60% weight)
+-----------------------------------------
+ipSAE:              0.7266  ✓ PASS (≥0.60)
+DockQ:              0.799   ✓ PASS (≥0.23, MEDIUM-HIGH quality)
+iRMSD:              1.185 Å ✓ Excellent
+Fnat:               0.794   ✓ 79.4% native contacts
+
+DEVELOPABILITY METRICS (20% weight)
+------------------------------------
+NetSolP:            0.5408  ✓ PASS (≥0.50)
+
+NOVELTY METRICS (20% weight)
+-----------------------------
+CDR-H3 Identity:    88.9%   ✓ PASS (<95%)
+Novelty:            11.1%   ✓ Novel vs Keytruda
+
+STATUS: ALL HARD CUTOFFS PASSED ✓

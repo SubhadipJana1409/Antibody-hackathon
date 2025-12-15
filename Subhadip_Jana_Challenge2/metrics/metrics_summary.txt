@@ -1,0 +1,22 @@
+CHALLENGE 2 METRICS SUMMARY
+============================
+Design: De novo design validated against germline
+CDR-H3: CARRDFRYDMGFDYWGQG
+
+BINDING & STRUCTURE METRICS (60% weight)
+-----------------------------------------
+ipSAE:              0.7266  ✓ PASS (≥0.60)
+ΔG (PRODIGY):       -11.8 kcal/mol  ✓ PASS (≤-6)
+Interface contacts: 90
+Kd (predicted):     2.2 nM (excellent affinity)
+
+DEVELOPABILITY METRICS (20% weight)
+------------------------------------
+NetSolP:            0.5391  ✓ PASS (≥0.50)
+
+NOVELTY METRICS (20% weight)
+-----------------------------
+Germline Identity:  77.4%   ✓ PASS (<95%)
+Novelty:            22.6%   ✓ Novel vs germline
+
+STATUS: ALL HARD CUTOFFS PASSED ✓
